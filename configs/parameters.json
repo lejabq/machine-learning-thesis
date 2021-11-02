@@ -1,0 +1,7 @@
+{
+    "random_forest_seed": 50,
+    "global_random_seed": 0,
+    "random_forest_n_estimators": 100
+}
+
+
